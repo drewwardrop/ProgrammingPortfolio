@@ -8,4 +8,4 @@ An OOP Space shooter game made in Processing winter 2020.
 
 ![SpaceGame](https://github.com/drewwardrop/ProgrammingPortfolio/blob/gh-pages/images/SpaceGame.png?raw=true)
 
-Source code for project ![here](https://github.com/drewwardrop/ProgrammingPortfolio/tree/gh-pages/src/SpaceGame)
+Source code for project [here](https://github.com/drewwardrop/ProgrammingPortfolio/tree/gh-pages/src/SpaceGame)
