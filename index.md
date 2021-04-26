@@ -1,4 +1,6 @@
 # Drew's Programming Portfolio 2021
+I have completed the 1st Semester Certification and have completed a number of projects using processing and java.
+[Drew Wardrop](mailto:drewwardrop@icloud.com)
 
 ## Processing Projects
 
