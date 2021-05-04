@@ -8,7 +8,7 @@ Author: [Drew Wardrop](mailto:drewwardrop@icloud.com)
 
 This a class diagram for the Hangman app:
 
-![Hangman App Class Diagram](https://github.com/drewwardrop/ProgrammingPortfolio/blob/gh-pages/images/SpaceGame.png?raw=true)
+![Hangman App Class Diagram](https://github.com/drewwardrop/ProgrammingPortfolio/blob/gh-pages/src/HangmanApp/hangman-app-class-diagram.png?raw=true)
 
 ### Hangman App GUI Mockup
 
