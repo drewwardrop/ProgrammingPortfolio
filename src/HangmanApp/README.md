@@ -9,3 +9,9 @@ Author: [Drew Wardrop](mailto:drewwardrop@icloud.com)
 This a class diagram for the Hangman app:
 
 ![Hangman App Class Diagram](https://github.com/drewwardrop/ProgrammingPortfolio/blob/gh-pages/images/SpaceGame.png?raw=true)
+
+### Hangman App GUI Mockup
+
+This is a mockup for the user interface of the Hangman App:
+
+![Hangman App GUI Mockup](https://github.com/drewwardrop/ProgrammingPortfolio/blob/gh-pages/images/SpaceGame.png?raw=true)
