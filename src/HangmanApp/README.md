@@ -14,4 +14,4 @@ This a class diagram for the Hangman app:
 
 This is a mockup for the user interface of the Hangman App:
 
-![Hangman App GUI Mockup](https://github.com/drewwardrop/ProgrammingPortfolio/blob/gh-pages/images/SpaceGame.png?raw=true)
+![Hangman App GUI Mockup](https://github.com/drewwardrop/ProgrammingPortfolio/blob/gh-pages/src/HangmanApp/hangman-app-gui-mockup.png)
