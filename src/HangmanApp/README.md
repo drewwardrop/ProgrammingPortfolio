@@ -1,5 +1,5 @@
 
-# Hangman App
+# Hangman App Final Project
 
 The Hangman App is a processing program that is a Hangman game.  It will have a digital keyboard that you can click to play the game.
 Author: [Drew Wardrop](mailto:drewwardrop@icloud.com)
@@ -20,3 +20,5 @@ This is a mockup for the user interface of the Hangman App:
 ### Hangman App Source Code
 
 Source code for project [here](https://github.com/drewwardrop/ProgrammingPortfolio/tree/gh-pages/src/HangmanApp/src).
+
+### Hangman App Executable Files
