@@ -52,5 +52,11 @@ An OOP Spaceship application in Processing winter 2020.
 
 Source code for project [here](https://github.com/drewwardrop/ProgrammingPortfolio/tree/gh-pages/src/Spaceship). Windows executable for project [here](https://github.com/drewwardrop/ProgrammingPortfolio/blob/gh-pages/src/Spaceship/application.windows64.zip).
 
+### Hangman Game Final Project
 
+An OOP Hangman Game using processing for my final project.
+
+![Hangman](https://raw.githubusercontent.com/drewwardrop/ProgrammingPortfolio/gh-pages/src/HangmanApp/hangman-app-gui-mockup.png)
+
+Source code for project [here](https://github.com/drewwardrop/ProgrammingPortfolio/tree/gh-pages/src/HangmanApp/src).
 
